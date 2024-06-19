@@ -1,12 +1,11 @@
-<h1 align="center">Hola mi Nombre es Daniel Gutierrez</h1>
+<h1 align="center">Hola mi Nombre es Daniel Gutierrez - 90378</h1>
 <h3 align="center">Soy un desarrollador .Net Core +7 con mas de 8 años de experiencia en el campo de desarrollo de software</h3>
 
 - 🔭 Ericcson **Claro Colombia - Peru**
 
-- 👯 TCS **Av - Avianca**
+- 🔭 TCS **Av - Avianca**
 
-- 👯 ECCI **Seminario Big Data**
-  
+- 🤝 Universidad Ecci **Seminario Big Data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
